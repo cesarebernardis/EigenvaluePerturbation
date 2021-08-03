@@ -1,0 +1,4 @@
+from .Recommender import Recommender
+from .SimilarityMatrixRecommender import UserSimilarityMatrixRecommender, ItemSimilarityMatrixRecommender
+from .PredefinedListRecommender import PredefinedListRecommender
+from .MatrixFactorizationRecommender import BaseMatrixFactorizationRecommender
