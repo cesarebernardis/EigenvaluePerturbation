@@ -5,7 +5,7 @@ Ph.D. candidate at Politecnico di Milano, and it is based on the recommendation 
 The code allows reproducing the results of "Eigenvalue Perturbation for Item-based Recommender Systems", 
 a work presented at the ACM RecSys Conference 2021.
 
-Please cite our article (coming soon!) if you use this repository or a part of it in your work.
+Please cite our article ([BibTex](https://dblp.org/rec/conf/recsys/BernardisC21.html?view=bibtex), [ACM DL](https://dl.acm.org/doi/10.1145/3460231.3478862)) if you use this repository or a part of it in your work.
 
 
 ## Installation
